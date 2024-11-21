@@ -4,7 +4,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-title: About Me
+title: Welcome!
 ---
 
 <style>
