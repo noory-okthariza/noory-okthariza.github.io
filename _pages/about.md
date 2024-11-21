@@ -38,3 +38,8 @@ title:
   <h2>Tentang Saya</h2>
   <p>Saya adalah mahasiswa S3 tahun kedua di jurusan Ilmu Politik Universitas Maryland. Riset saya berfokus pada hubungan antara perilaku politik dan pembangunan, dengan titik tekan bagaimana institusi dan warisan sejarah menghasilkan outcome politik dan ekonomi di Asia Tenggara. Saya menggabungkan teknik inferensi kausal dengan pemahaman mendalam tentang konteks studi yang saya tekuni. Sebelum memulai studi S3, saya bekerja lebih dari lima tahun sebagai peneliti di Centre for Strategic and International Studies (CSIS), Indonesia.</p>
 </section>
+
+<div class="spacer"></div>
+
+<h2 style="margin-top: 10px; font-size: 18px;">Mailing Address</h2>
+<p style="font-size: 14px; line-height: 1.6; margin-top: 5px;">3140 Tydings Hall, 7343 Preinkert Drive, College Park, University of Maryland</p>
