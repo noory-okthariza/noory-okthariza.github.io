@@ -6,7 +6,7 @@
 
 main:
   - title: "Home"
-    "noory-okthariza.github.io"
+    url: /home/    
 
   - title: "Research"
     url: /publications/    
