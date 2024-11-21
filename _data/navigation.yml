@@ -1,9 +1,7 @@
 main:
   - title: "Home"
-    url: /home/
-
+    url: /  # Root URL
   - title: "Publications"
     url: /publications/
-
   - title: "CV"
     url: /CV/
