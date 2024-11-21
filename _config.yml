@@ -150,6 +150,8 @@ analytics:
   google:
     tracking_id          :
 
+include:
+  - assets/css/custom.css
 
 # Reading Files
 include:
