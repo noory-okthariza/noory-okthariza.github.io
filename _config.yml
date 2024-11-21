@@ -149,9 +149,7 @@ analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
-
-include:
-  - assets/css/custom.css
+    
 
 # Reading Files
 include:
