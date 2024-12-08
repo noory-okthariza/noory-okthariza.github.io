@@ -6,6 +6,4 @@ main:
   - title: "CV"
     url: /CV/
   - title: "Tutorial"
-    subitems:
-      - title: "Topic Modeling Tutorial"
-        url: /tutorials/topicmodel.html
+    url: /tutorials/topicmodel.html
