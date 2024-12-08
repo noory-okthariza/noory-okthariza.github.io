@@ -1,1 +1,11 @@
+project:
+  type: website
 
+navbar:
+  left:
+    - text: Home
+      href: index.html
+    - text: Tutorials
+      menu:
+        - text: "Topic Modeling"
+          href: tutorial/topicmodel.html
