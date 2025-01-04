@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /  # Root URL
   - title: "Research"
-    url: /tutorial/Research.html
+    url: /_pages/Research.html
   - title: "CV"
     url: /CV/
   - title: "Blog"
