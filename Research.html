@@ -95,6 +95,20 @@ div.columns, div.column, ul {
       box-sizing: border-box; /* Include padding in width calculations */
     }
 
+/* Adjust styles for smaller screens */
+@media (max-width: 768px) { /* Tablets and smaller */
+  #working-paper {
+    max-width: 90%; /* Increase width to 90% of the screen */
+    padding: 1em; /* Keep padding for spacing */
+  }
+}
+
+@media (max-width: 480px) { /* Phones */
+  #working-paper {
+    max-width: 95%; /* Make it almost full width for small devices */
+    padding: 0.8em; /* Slightly reduce padding */
+  }
+}
   
 </style>
 
