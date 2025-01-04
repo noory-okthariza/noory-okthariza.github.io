@@ -55,14 +55,14 @@ body {
   overflow-x: hidden;
   margin-left: 9em;
   margin-top: 2em;
-  padding-top: 5em; /* Prevent content from being hidden by tabs */
+  padding-top: 3.7em; /* Prevent content from being hidden by tabs */
 }
 
 /* Limit content width to the viewport */
 #quarto-content {
   max-width: 100vw;
   overflow-x: hidden;
-  padding-top: 5em; /* Add space between tabs and content */
+  padding-top: 3.7em; /* Add space between tabs and content */
 }
 
 div.columns, div.column, ul {
@@ -72,7 +72,18 @@ div.columns, div.column, ul {
   margin-top: 2em; /* Add space above columns if needed */
 }
 
+  /* Center and limit the width of the Work in Progress section */
+    #working-paper {
+      max-width: 50%; /* Limit width to 50% of the screen */
+      margin: 0 auto; /* Center the section horizontally */
+      word-wrap: break-word; /* Ensure text wraps properly */
+      overflow-wrap: break-word; /* Modern browsers compatibility */
+      line-height: 1.5; /* Improve readability */
+      padding: 1em; /* Add padding for spacing */
+      box-sizing: border-box; /* Include padding in width calculations */
+    }
 
+  
 </style>
 
 
