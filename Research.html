@@ -33,7 +33,7 @@ div.column {
 }
 
 div.hanging-indent {
-  margin-left: 3em; /* Adjusted from 1.5em to 3em for more indentation */
+  margin-left: 5em; /* Adjusted from 1.5em to 3em for more indentation */
   text-indent: -3em; /* Matches the new margin */
 }
 
@@ -47,17 +47,26 @@ ul.task-list li input[type="checkbox"] {
   vertical-align: middle;
 }
 
-li {
-  word-wrap: break-word; /* Break long words to wrap */
-  overflow-wrap: break-word; /* Modern browsers compatibility */
-  white-space: normal; /* Ensure text wraps to the next line */
-  line-height: 1.5; /* Improve readability */
-}
 
-/* Additional rule for more general indentation */
-body {
-  margin-left: 9em; /* Move the entire content to the right */
-}
+    /* Ensure no horizontal scrolling */
+    body {
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+      margin-left: 9em;
+    }
+
+    /* Limit content width to the viewport */
+    #quarto-content {
+      max-width: 100vw;
+      overflow-x: hidden;
+    }
+
+    div.columns, div.column, ul {
+      margin: 0 auto;
+      max-width: 100%;
+      overflow: hidden;
+    }
 </style>
 
 
@@ -92,7 +101,7 @@ body {
 <li>
   The patriarchy in the parties: Voter preferences vs. women's list placement in the 2024 legislative election in Indonesia 
   (with <a href="https://gvpt.umd.edu/facultyprofile/birnir/johanna" target="_blank">Johanna Birnir</a>, Khoirunnisa Agustyati, and Heroik Pratama). 
-  <em>Revise and resubmit</em>
+  <em>Revise and resubmit.</em>
 </li>
 </ul>
 <hr>
