@@ -2,22 +2,25 @@
 layout: compress
 ---
 
-{% include base_path %}
-
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
+    <!-- Include Head -->
     {% include head.html %}
     {% include head/custom.html %}
+
+    <!-- Favicon Example -->
+    <link rel="icon" href="{{ site.baseurl }}/favicon.ico">
   </head>
 
   <body>
+    <!-- Browser Upgrade Notice -->
     {% include browser-upgrade.html %}
 
-    <!-- Navigation Bar (Masthead) -->
+    <!-- Navigation Bar -->
     {% include masthead.html %}
 
-    <!-- Main Page Content -->
+    <!-- Main Content -->
     <main>
       {{ content }}
     </main>
