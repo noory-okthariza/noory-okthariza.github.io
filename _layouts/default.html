@@ -12,12 +12,17 @@ layout: compress
   </head>
 
   <body>
-
     {% include browser-upgrade.html %}
+
+    <!-- Navigation Bar (Masthead) -->
     {% include masthead.html %}
 
-    {{ content }}
+    <!-- Main Page Content -->
+    <main>
+      {{ content }}
+    </main>
 
+    <!-- Footer -->
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
@@ -25,7 +30,7 @@ layout: compress
       </footer>
     </div>
 
+    <!-- Scripts -->
     {% include scripts.html %}
-
   </body>
 </html>
