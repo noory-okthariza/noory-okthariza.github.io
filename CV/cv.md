@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download my CV (PDF)]({{ site.baseurl }}/cv_updated2.pdf)
+<a href="CV/cv_updated2.pdf" target="_blank">Download my CV</a>
