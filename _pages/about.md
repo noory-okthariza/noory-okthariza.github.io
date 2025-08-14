@@ -30,7 +30,7 @@ title:
 
 <section class="about-section">
   <h2>About Me</h2>
-  <p>I am a second-year PhD student in Political Science at the University of Maryland. My research focuses on the intersection of political behavior and development, with an emphasis on how institutions and historical legacies shape political and economic outcomes in Southeast Asia. I combine causal inference and machine learning with a deep understanding of regional contexts to explore these dynamics. Before starting graduate school, I spent over five years working as a researcher at the Jakarta-based think tank, the Centre for Strategic and International Studies (CSIS), Indonesia.</p>
+  <p>I am a third-year PhD student in Political Science at the University of Maryland. My research focuses on the intersection of political behavior and development, with an emphasis on how institutions and historical legacies shape political and economic outcomes in Southeast Asia. I combine causal inference and machine learning with a deep understanding of regional contexts to explore these dynamics. Before starting graduate school, I spent over five years working as a researcher at the Jakarta-based think tank, the Centre for Strategic and International Studies (CSIS), Indonesia.</p>
   <p>I take caffeine seriously and believe in the endogenous impact of coffee on graduate school success. I dedicate as much time to perfecting espresso-making as I do to coding.</p>
 
   <div class="spacer"></div>
