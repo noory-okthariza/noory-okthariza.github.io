@@ -1,17 +1,25 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Noory Okthariza"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: data.qmd
+        text: Data
+      - href: blog.qmd
+        text: Blog
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     toc: false
+    css: styles.css
+    navbar:
+      background: "#003366"   # dark blue, customize later
