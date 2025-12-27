@@ -10,7 +10,8 @@ title: "Publications"
 
 ------------------------------------------------------------------------
 
-<div style="margin-top:8px;"></div>
+::: {style="margin-top:8px;"}
+:::
 
 ### Before Graduate School
 
