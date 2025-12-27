@@ -1,1 +1,16 @@
 /* css styles */
+/* Two-column layout (same as before) is controlled by the inline style */
+
+/* On small screens ONLY (phones), stack content vertically */
+@media (max-width: 600px) {
+  .profile-layout {
+    display: block !important;
+  }
+
+  .profile-layout img {
+    width: 50% !important;
+    margin: 0 auto 1rem;
+    display: block;
+  }
+}
+
