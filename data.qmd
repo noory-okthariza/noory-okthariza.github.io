@@ -2,7 +2,7 @@
 title: ""
 ---
 
-<div style="max-width: 750px; margin: auto;">
+<div style="max-width: 800px; margin: auto;">
 
 ## Indonesia Election Archive
 
