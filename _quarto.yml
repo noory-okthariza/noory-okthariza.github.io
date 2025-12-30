@@ -23,5 +23,8 @@ format:
     theme: flatly
     toc: false
     css: styles.css
+    page-layout: article
+    grid:
+      body-width: 800px
     navbar:
       background: "#003366"   # dark blue, customize later
