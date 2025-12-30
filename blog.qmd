@@ -1,6 +1,5 @@
 ---
 title: ""
-page-layout: full
 ---
 
-Will be updated soon. 
+Will be updated soon.
