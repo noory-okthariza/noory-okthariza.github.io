@@ -1,8 +1,8 @@
 ---
 title: ""
+page-layout: article
 ---
 
-<div style="max-width: 800px; margin: auto;">
 
 ## Indonesia Election Archive
 
@@ -12,4 +12,3 @@ My advisor, our collaborators, and I have been involved in an ongoing effort to 
 This paper introduces an Indonesian Election Archive built by a team of scholars and democratic NGO practitioners from Indonesia and the United States. This archive aims to address the calls of international democracy advocates by providing systematic, longitudinal election data across multiple levels of elected administration in Indonesia. We document the efforts of a leading civil society group, the Association for Elections and Democracy (Perludem), and its collaboration with the Indonesian Electoral Commission (KPU) to supply voters with information before and after elections. The archive provides a collection of the laws governing elections to the Presidency and Vice Presidency, the Lower House of the National Legislature (DPR), the Upper House (DPD), regional legislatures and local heads from 1999 to 2024. Additionally, we provide candidate data and election results for the three most recent elections (2014, 2019, and 2024) covering the offices of the Presidency and Vice-Presidency, and both Houses.
 :::
 
-</div>
