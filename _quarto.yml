@@ -1,12 +1,14 @@
 project:
   type: website
   output-dir: docs
+  site-url:  https://noory-okthariza.github.io
+  sitemap:  true
 
 
 website:
   title: "Noory Okthariza"
   navbar:
-    right:
+    right: 
       - href: index.qmd
         text: Home
       - href: research.qmd
@@ -17,15 +19,6 @@ website:
         text: Data
       - href: blog.qmd
         text: Blog
-page-footer:
-    left: |
-      PhD Student in Political Science, University of Maryland  
-      📍 College Park, MD  
-      ✉️ [noory@umd.edu](mailto:noory@umd.edu)  
-      📚 [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=noory+okthariza&btnG=&oq=noory+okth)  
-      🆔 [ORCID](https://orcid.org/0000-0001-8882-7763)  
-      💼 [GitHub](https://github.com/noory-okthariza)
-
 format: 
   html:
     theme: flatly
