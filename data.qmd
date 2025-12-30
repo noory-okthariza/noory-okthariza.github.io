@@ -1,7 +1,6 @@
 ---
 title: ""
-page-layout: article
----
+--- 
 
 
 ## Indonesia Election Archive
