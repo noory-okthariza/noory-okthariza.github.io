@@ -17,7 +17,7 @@ website:
         text: CV
       - href: data.qmd
         text: Data
-      - href: blog.qmd
+      - href: blog/index.qmd
         text: Blog
 format: 
   html:
