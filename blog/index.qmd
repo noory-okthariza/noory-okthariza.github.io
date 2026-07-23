@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-description: "Notes on judicial politics, political methodology, text analysis, R, and Python."
+description: "Notes on judicial politics."
 
 listing:
   contents: posts
