@@ -1,14 +1,14 @@
 project:
   type: website
   output-dir: docs
-  site-url:  https://noory-okthariza.github.io
-  sitemap:  true
-
 
 website:
   title: "Noory Okthariza"
+  site-url: "https://noory-okthariza.github.io"
+
   navbar:
-    right: 
+    background: "#003366"
+    right:
       - href: index.qmd
         text: Home
       - href: research.qmd
@@ -19,7 +19,8 @@ website:
         text: Data
       - href: blog/index.qmd
         text: Blog
-format: 
+
+format:
   html:
     theme: flatly
     toc: false
@@ -27,5 +28,3 @@ format:
     page-layout: article
     grid:
       body-width: 800px
-    navbar:
-      background: "#003366"   # dark blue, customize later
