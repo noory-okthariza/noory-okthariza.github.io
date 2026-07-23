@@ -1,0 +1,32 @@
+---
+title: "Judicial Alignment"
+author: "Noory Okthariza"
+date: "2026-07-23"
+categories:
+  - Judicial Politics
+  - Text Analysis
+  - Indonesia
+---
+
+## Introduction
+
+Test
+
+## Measuring similarity
+
+Suppose that we have embeddings for three documents:
+
+- the petitioner's argument;
+- the government's argument;
+- the court's legal reasoning.
+
+We can calculate:
+
+\[
+A_i =
+\cos(C_i, P_i) -
+\cos(C_i, G_i)
+\]
+
+where \(C_i\) represents the court text, \(P_i\) represents the
+petitioner text, and \(G_i\) represents the government text.
