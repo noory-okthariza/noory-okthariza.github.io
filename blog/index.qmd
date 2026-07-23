@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-description: "Notes on judicial politics."
+description: ""
 
 listing:
   contents: posts
@@ -10,4 +10,8 @@ listing:
   date-format: "MMM D, YYYY"
   page-size: 10
   feed: true
+  categories:
+  - PhD
+  - Judicial Politics
+  - Methods
 ---
