@@ -68,5 +68,26 @@
     "title": "Judicial Alignment",
     "section": "Measuring similarity",
     "text": "Measuring similarity\nSuppose that we have embeddings for three documents:\n\nthe petitioner’s argument;\nthe government’s argument;\nthe court’s legal reasoning.\n\nWe can calculate:\n[ A_i = (C_i, P_i) - (C_i, G_i) ]\nwhere (C_i) represents the court text, (P_i) represents the petitioner text, and (G_i) represents the government text."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Judicial Alignment\n\n\n\nJudicial Politics\n\nText Analysis\n\nIndonesia\n\n\n\n\n\n\n\n\n\nJul 23, 2026\n\n\nNoory Okthariza\n\n\n\n\n\n\n\n\n\n\n\n\nJudicial Alignment\n\n\n\nJudicial Politics\n\nText Analysis\n\nIndonesia\n\n\n\n\n\n\n\n\n\nJul 23, 2026\n\n\nNoory Okthariza\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/judicial-alignment/index.html",
+    "href": "blog/posts/judicial-alignment/index.html",
+    "title": "Test",
+    "section": "",
+    "text": "This is my first blog post."
+  },
+  {
+    "objectID": "blog/posts/judicial-alignment/index.html#introduction",
+    "href": "blog/posts/judicial-alignment/index.html#introduction",
+    "title": "Test",
+    "section": "",
+    "text": "This is my first blog post."
   }
 ]

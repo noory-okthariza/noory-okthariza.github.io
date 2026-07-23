@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Noory Okthariza</title>
+<link>https://noory-okthariza.github.io/blog/</link>
+<atom:link href="https://noory-okthariza.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Notes on judicial politics, political methodology, text analysis, R, and Python.</description>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Wed, 22 Jul 2026 17:00:00 GMT</lastBuildDate>
+<item>
+  <title>Test</title>
+  <link>https://noory-okthariza.github.io/blog/posts/judicial-alignment/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>This is my first blog post.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://noory-okthariza.github.io/blog/posts/judicial-alignment/</guid>
+  <pubDate>Wed, 22 Jul 2026 17:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Judicial Alignment</title>
+  <dc:creator>Noory Okthariza</dc:creator>
+  <link>https://noory-okthariza.github.io/blog/posts/dissent-analysis/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>Test</p>
+</section>
+<section id="measuring-similarity" class="level2">
+<h2 class="anchored" data-anchor-id="measuring-similarity">Measuring similarity</h2>
+<p>Suppose that we have embeddings for three documents:</p>
+<ul>
+<li>the petitioner’s argument;</li>
+<li>the government’s argument;</li>
+<li>the court’s legal reasoning.</li>
+</ul>
+<p>We can calculate:</p>
+<p>[ A_i = (C_i, P_i) - (C_i, G_i) ]</p>
+<p>where (C_i) represents the court text, (P_i) represents the petitioner text, and (G_i) represents the government text.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Judicial Politics</category>
+  <category>Text Analysis</category>
+  <category>Indonesia</category>
+  <guid>https://noory-okthariza.github.io/blog/posts/dissent-analysis/</guid>
+  <pubDate>Wed, 22 Jul 2026 17:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

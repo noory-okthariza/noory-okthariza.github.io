@@ -1,0 +1,13 @@
+---
+title: "Blog"
+description: "Notes on judicial politics, political methodology, text analysis, R, and Python."
+
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  date-format: "MMM D, YYYY"
+  page-size: 10
+  feed: true
+---
