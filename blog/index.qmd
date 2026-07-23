@@ -1,4 +1,4 @@
----
+--- 
 title: "Blog"
 description: ""
 
@@ -10,8 +10,4 @@ listing:
   date-format: "MMM D, YYYY"
   page-size: 10
   feed: true
-  categories:
-  - PhD
-  - Judicial Politics
-  - Methods
 ---
