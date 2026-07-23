@@ -21,27 +21,6 @@
     "text": "Kuliah tahun ketiga saya selesai Mei lalu. Sekarang masuk libur summer. Sebenarnya tidak bisa dibilang libur juga karena banyak urusan riset yang harus dikerjakan. Tapi summer ini saya berkesempatan balik lagi ke Indo. Tujuan utamanya tentu untuk mengumpulkan data, plus bonusnya ketemu dengan teman-teman lama.\nSedikit update, semester kemarin adalah semester terakhir saya ambil mata kuliah. Jadi Fall semester nanti dan seterusnya bisa riang-gembira mengerjakan riset tanpa dibebani tugas-tugas di kelas. Saya lumayan banyak ambil mata kuliah. Total selama enam semester, saya ambil enam belas mata kuliah plus satu mata kuliah reading yang cukup ketemu profesor per dua minggu.\nSemester terakhir ini mata kuliah yang saya ambil seru-seru: game theory dan prospectus. Belajar game theory buat saya seperti belajar bahasa baru. Ibaratnya seperti belajar mengerti kata-kata asing, grammar dan hubungan sintaksis supaya bisa ketemu logika dan makna yang valid. Walau cukup kesulitan, menurut saya mata kuliah ini bagus diambil mahasiswa tingkat lanjut, terutama yang ingin - seperti saya - mengonstruksi sebuah teori yang koheren.\nMata kuliah kedua, prospectus, agak unik. Ini mata kuliah yang ditujukan untuk membuat draft proposal disertasi. Hampir setiap minggu mahasiswa dapat giliran presentasi. Tentunya didahului dengan memberi draft ke teman-teman di kelas - yang kemudian akan membaca tulisan tersebut dengan sangat attentive. Urutan presentasinya mengikuti format proposal: mulai dari latar belakang dan formulasi pertanyaan penelitian, teori dan hipotesis, strategi empiris, sampai data. Jadi bisa dipastikan hampir setiap minggu setiap mahasiswa kebanjiran kritik dan masukan. Tapi senangnya semua dilakukan dengan semangat kolegial.\nWalau draft proposal sudah ada, tapi saya belum bisa mulai secara formal menulis disertasi. Saya masih perlu menyelesaikan dua paper dan ujian proposal sebelum menyandang status ‘kandidat doktor’. Ritus kuliah PhD di Amerika memang pelan dan mesti dilalui dengan sabar. Idealnya setiap mahasiswa bisa lulus dalam 5 tahun. Tapi bukan hal aneh ada mahasiswa bisa selesai dalam 6-7 tahun bahkan lebih.\nKarena tidak ada lagi kuliah, Fall nanti saya harus (bisa) kebut menulis dua paper. Satu paper sudah dan sedang saya kerjakan sejak awal summer ini, dan yang satu lagi harusnya bisa dimulai awal Fall. Saya bilang ‘harusnya’ karena paper kedua ini menunggu survei nasional yang rencananya akan dilakukan kolega di CSIS Agustus/September ini. Semoga semua berjalan sesuai rencana, jadi akhir Fall nanti, atau selambat-lambatnya awal tahun depan, saya bisa ikut ujian proposal."
   },
   {
-    "objectID": "blog/posts/dissent-analysis/index.html#introduction",
-    "href": "blog/posts/dissent-analysis/index.html#introduction",
-    "title": "Test",
-    "section": "",
-    "text": "Test"
-  },
-  {
-    "objectID": "blog/posts/dissent-analysis/index.html#measuring-similarity",
-    "href": "blog/posts/dissent-analysis/index.html#measuring-similarity",
-    "title": "Test",
-    "section": "Measuring similarity",
-    "text": "Measuring similarity\nSuppose that we have embeddings for three documents:\n\nthe petitioner’s argument;\nthe government’s argument;\nthe court’s legal reasoning.\n\nWe can calculate:\n[ A_i = (C_i, P_i) - (C_i, G_i) ]\nwhere (C_i) represents the court text, (P_i) represents the petitioner text, and (G_i) represents the government text."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Noory Okthariza",
-    "section": "",
-    "text": "Noory Okthariza\nPhD Student in Political Science, University of Maryland\n📍 College Park, MD\n✉️ noory@umd.edu\n📚 Google Scholar\n🆔 ORCID\n💼 GitHub\n\n\n\n\nHi there!\nI am a third-year PhD student in Political Science at the University of Maryland. My research focuses on the intricacies of electoral design, party competition, and electoral outcomes. I am also developing a keen interest in understanding patterns of judicial behavior, using causal inference and natural language processing to identify how judges reason, signal, and justify decisions in constitutional and electoral disputes. My work has been published in Scientific Data, Electoral Studies, and Asian Journal of Comparative Politics, as well as in edited volumes by Routledge and Palgrave Macmillan.\nBefore starting graduate school, I spent over five years working as a researcher at the Jakarta-based think tank, the Centre for Strategic and International Studies (CSIS), where I remain affiliated.\nI take caffeine seriously and believe in the endogenous impact of coffee on graduate school success. I’m also a bedroom amateur guitar player who enjoys spending evenings trying to improve my mediocre skills (one riff at a time).\n\n\n\nContact\nDepartment of Government & Politics\nUniversity of Maryland\n3140 Tydings Hall\nCollege Park, MD 20742\n✉️ noory@umd.edu"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Publications",
@@ -56,18 +35,11 @@
     "text": "Working Papers\n• Will be updated soon"
   },
   {
-    "objectID": "blog/posts/judicial-alignment/index.html",
-    "href": "blog/posts/judicial-alignment/index.html",
-    "title": "Test",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Noory Okthariza",
     "section": "",
-    "text": "This is my first blog post."
-  },
-  {
-    "objectID": "blog/posts/judicial-alignment/index.html#introduction",
-    "href": "blog/posts/judicial-alignment/index.html#introduction",
-    "title": "Test",
-    "section": "",
-    "text": "This is my first blog post."
+    "text": "Noory Okthariza\nPhD Student in Political Science, University of Maryland\n📍 College Park, MD\n✉️ noory@umd.edu\n📚 Google Scholar\n🆔 ORCID\n💼 GitHub\n\n\n\n\nHi there!\nI am a third-year PhD student in Political Science at the University of Maryland. My research focuses on the intricacies of electoral design, party competition, and electoral outcomes. I am also developing a keen interest in understanding patterns of judicial behavior, using causal inference and natural language processing to identify how judges reason, signal, and justify decisions in constitutional and electoral disputes. My work has been published in Scientific Data, Electoral Studies, and Asian Journal of Comparative Politics, as well as in edited volumes by Routledge and Palgrave Macmillan.\nBefore starting graduate school, I spent over five years working as a researcher at the Jakarta-based think tank, the Centre for Strategic and International Studies (CSIS), where I remain affiliated.\nI take caffeine seriously and believe in the endogenous impact of coffee on graduate school success. I’m also a bedroom amateur guitar player who enjoys spending evenings trying to improve my mediocre skills (one riff at a time).\n\n\n\nContact\nDepartment of Government & Politics\nUniversity of Maryland\n3140 Tydings Hall\nCollege Park, MD 20742\n✉️ noory@umd.edu"
   },
   {
     "objectID": "blog/index.html",
